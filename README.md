@@ -6,7 +6,7 @@
 //Student-Led Project Example:
 //Enter a brief description of the project below, in plaintext. No special Markdown bits.
 //Optional: list project technologies used between asterisks to let users find projects they can contribute to easier.
-    [My Project](https://example.com) -- Created by [Student McStudentFace](https://github.com/enterProfileLinkHere) | use commas if multiple contributors/team project
+    * [My Project](https://example.com) -- Created by [Student McStudentFace](https://github.com/enterProfileLinkHere) | use commas if multiple contributors/team project
     A game of Hangman written, with multiple levels of difficulty and interfaces for both desktop and web.
     *Java, HTML, CSS, JavaScript*
 
@@ -15,7 +15,7 @@
 //Interesting FOSS Projects Example -- for all NON-STUDENT projects you find interesting:
 //Enter a brief description of the project below, in plaintext. No special Markdown bits.
 //Optional: list project technologies used between asterisks to let users find projects they can contribute to easier.
-    [Project Name](https://example.com) 
+    * [Project Name](https://example.com) 
     A simple open source calculator.
     *Python, Django, HTML, CSS, JavaScript*
 -->
