@@ -20,13 +20,13 @@
     *Python, Django, HTML, CSS, JavaScript*
 -->
 
-## Student Project of the Week (Mar. 1 - Mar. 8)
+### Student Project of the Week (Mar. 1 - Mar. 8)
 TBD.
 
-## Student-led Projects
+### Student-led Projects
 TBD.
 
-## Interesting FOSS Projects
+### Interesting FOSS Projects
 TBD.
 
 *Updated Feb. 26, 2021*
