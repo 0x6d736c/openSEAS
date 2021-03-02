@@ -22,14 +22,14 @@
 -->
 
 ### Student Project of the Week (Mar. 1 - Mar. 8)
-TBD.
-
-### Student-led Projects
-   * [Recent Meeting Codes](https://github.com/JohnRiv/recent-meeting-codes) -- Created by [John Riviello](https://github.com/JohnRiv)
+* [Recent Meeting Codes](https://github.com/JohnRiv/recent-meeting-codes) -- Created by [John Riviello](https://github.com/JohnRiv)
      * A Google Chrome/Microsoft Edge extension that adds buttons to launch recently used Meeting Codes to the Google Meet page
      * *HTML, CSS, JavaScript*
 
+### Student-led Projects
+More to be added soon.
+
 ### Interesting FOSS Projects
-TBD.
+Coming soon.
 
 *Updated Feb. 28, 2021*
