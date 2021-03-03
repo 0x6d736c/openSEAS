@@ -32,4 +32,4 @@ More to be added soon.
 ### Interesting FOSS Projects
 Coming soon.
 
-*Updated Feb. 28, 2021*
+*Updated Mar. 2, 2021*
